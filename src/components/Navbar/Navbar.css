@@ -1,0 +1,10 @@
+.navbar ul {
+  /* position: sticky;
+  top: 0; */
+  list-style-type: none;
+  margin: 0px 0px 0px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: white
+}
